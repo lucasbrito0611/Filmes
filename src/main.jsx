@@ -15,7 +15,7 @@ import './pages/Movie.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename='/Filmes'>
+    <BrowserRouter basename='/Filmes' forceRefresh={true}>
       <Routes>
         <Route element={<App />}>
           <Route path='/' element={<Home />}/>

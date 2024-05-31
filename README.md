@@ -1,8 +1,6 @@
-# React + Vite
+# Projeto de Catálogo de Filmes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Sobre
+### Esse é um projeto feito com as linguagens HTML, CSS e JavaScript, utilizando também o React. Feito com o intuito de praticar e aprimorar as minhas habilidades com React e o consumo de APIs. Nele, uso a API do TMDB (The Movie DataBase). Projeto muito bacana feito com a ajuda do canal Hora de Codar, no YouTube. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Layout
